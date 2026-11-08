@@ -1,4 +1,4 @@
-
+111
 generateSierpinski <- function(rows) {
   # generate the rows and return them
   mat = matrix(0, nrow = rows, ncol = 2)
